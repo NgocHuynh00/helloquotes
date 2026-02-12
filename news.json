@@ -1,20 +1,19 @@
-
 {
   "date": "2026-02-12",
-  "articles": {
-      "article" : {
-        "id": "1",
-        "title": "Brain and Universe",
-        "summary": "Brain and Universe sum sum",
-        "image": "https://yourdomain.com/img/1.jpg",
-        "url": "https://przekroj.org/en/world-people/the-universe-works-like-a-huge-human-brain-discover-scientists/"
-      },
-      "article" : {
-        "id": "1",
-        "title": "Wallpaper Emperor",
-        "summary": "wallpaper sum sum",
-        "image": "https://yourdomain.com/img/1.jpg",
-        "url": "https://przekroj.org/en/art-stories/the-wallpaper-that-killed-the-emperor/"
-      }
+  "articles": [
+    {
+      "id": "1",
+      "title": "Brain and Universe",
+      "summary": "Brain and Universe sum sum",
+      "image": "https://yourdomain.com/img/1.jpg",
+      "url": "https://przekroj.org/en/world-people/the-universe-works-like-a-huge-human-brain-discover-scientists/"
+    },
+    {
+      "id": "2",
+      "title": "Wallpaper Emperor",
+      "summary": "wallpaper sum sum",
+      "image": "https://yourdomain.com/img/1.jpg",
+      "url": "https://przekroj.org/en/art-stories/the-wallpaper-that-killed-the-emperor/"
     }
+  ]
 }
