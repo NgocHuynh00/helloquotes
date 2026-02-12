@@ -1,7 +1,7 @@
 
 {
   "date": "2026-02-12",
-  "articles": [
+  "articles": {
     {
       "id": "1",
       "title": "Brain and Universe",
@@ -15,6 +15,6 @@
       "summary": "wallpaper sum sum",
       "image": "https://yourdomain.com/img/1.jpg",
       "url": "https://przekroj.org/en/art-stories/the-wallpaper-that-killed-the-emperor/"
-    },
-  ]
+    }
+    }
 }
